@@ -1,4 +1,4 @@
-# zvlu.github.io (BASIC PORTFOLIIO)
+# zvlu.github.io (BASIC PORTFOLIO)
 I created a basic html website and used css and  bootstrap for styling.
 Very easy homework assignment with very few challenges most challenging part were the pictures and titles on the portfolio page.
 
